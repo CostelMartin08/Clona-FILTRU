@@ -1,0 +1,72 @@
+body {
+    background-color: #000;
+    color: white;
+    font-family: ui-sans-serif, system-ui;
+}
+
+span {
+    color: rgb(245 166 34);
+}
+
+p,
+li {
+    color: rgb(163 163 163);
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+.button-color {
+    background-color: rgb(245 166 34);
+}
+
+.bg-gray {
+    background-color: rgb(23 23 23);
+}
+
+.hover:hover {
+    background-color: rgb(38 38 38);
+}
+
+.bg-caseta {
+    background-color: rgb(0 0 0/.6);
+}
+
+.button-color:hover {
+    opacity: 4;
+}
+
+.navbar-collapse {
+    flex-grow: 0;
+}
+
+/* -------------------------------------------------------------------------- */
+/*                                    FONT                                    */
+/* -------------------------------------------------------------------------- */
+
+
+.font-size {
+    font-size: .874rem;
+}
+
+.font-size-text {
+    font-size: 1.125rem;
+}
+
+.font-size-title {
+    font-size: 2.25rem;
+}
+
+.font-size-xltitle {
+    font-size: 3rem;
+}
+
+.font-medium {
+    font-weight: 700;
+}
+
+.font-big {
+    font-weight: 800;
+}
